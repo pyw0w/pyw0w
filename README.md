@@ -20,6 +20,11 @@
     <img src="https://img.shields.io/badge/NVIDIA-GT630-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt=""/>
     <img src="https://img.shields.io/badge/Intel-Core_i3_3220-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt=""/>
   </div>
+  <div id="games">
+    <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white" alt=""/>
+  </div>
   <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div>
