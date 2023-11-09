@@ -16,6 +16,10 @@
     <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt=""/>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt=""/>
   </div>
+  <div id="pc">
+    <img src="https://img.shields.io/badge/NVIDIA-GT630-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/Intel-Core_i3_3220-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt=""/>
+  </div>
   <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div>
