@@ -21,4 +21,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=PyWhy-3275&icon=2&color=1)](https://visitcount.itsvg.in)
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/PyWhy-3275/PyWhy-3275/output/snake.svg" alt="Snake animation" />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
