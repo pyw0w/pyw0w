@@ -18,6 +18,10 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+### Discord
+![Discord](https://img.shields.io/discord/1095389627155742810)
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=PyWhy-3275&icon=2&color=1)](https://visitcount.itsvg.in)
 
