@@ -9,6 +9,10 @@
 # GitActions:
 [![Build and publish NuGet package](https://github.com/PyWhy-3275/MiniCore.Essentials/actions/workflows/build.yml/badge.svg)](https://github.com/PyWhy-3275/MiniCore.Essentials/actions/workflows/build.yml)
 [![Build and publish NuGet package](https://github.com/PyWhy-3275/MiniCore.Admins/actions/workflows/build.yml/badge.svg)](https://github.com/PyWhy-3275/MiniCore.Admins/actions/workflows/build.yml)
+[![Build and publish NuGet package](https://github.com/PyWhy-3275/MiniCore.Anime/actions/workflows/build.yml/badge.svg)](https://github.com/PyWhy-3275/MiniCore.Anime/actions/workflows/build.yml)
+[![Build and publish NuGet package](https://github.com/PyWhy-3275/MiniCore.Role/actions/workflows/build.yml/badge.svg)](https://github.com/PyWhy-3275/MiniCore.Role/actions/workflows/build.yml)
+[![Build and publish NuGet package](https://github.com/PyWhy-3275/MiniCore.Music/actions/workflows/build.yml/badge.svg)](https://github.com/PyWhy-3275/MiniCore.Music/actions/workflows/build.yml)
+[![Build and publish NuGet package](https://github.com/PyWhy-3275/MiniCore.LevelingSystem/actions/workflows/build.yml/badge.svg)](https://github.com/PyWhy-3275/MiniCore.LevelingSystem/actions/workflows/build.yml)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PyWhy-3275&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
