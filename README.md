@@ -4,6 +4,12 @@
 ![My Skills](https://skillicons.dev/icons?i=html,css,scss,gulp,vue,nextjs,react)<br/>
 ![My Skills](https://skillicons.dev/icons?i=npm,nginx,git,mysql,sqlite,redis,fastapi)<br/>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PyWhy-3275&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PyWhy-3275&theme=dark&hide_border=false)<br/>
