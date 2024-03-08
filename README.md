@@ -1,6 +1,6 @@
 
 # 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=lua,php,golang,python,java,javascript,nodejs,dotnet)<br/>
+![My Skills](https://skillicons.dev/icons?i=lua,golang,python,java,javascript,nodejs,dotnet)<br/>
 ![My Skills](https://skillicons.dev/icons?i=html,css,scss,gulp,vue,nextjs,react)<br/>
 ![My Skills](https://skillicons.dev/icons?i=npm,nginx,git,mysql,sqlite,redis,fastapi)<br/>
 
