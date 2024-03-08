@@ -1,12 +1,10 @@
 
 # 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=lua,golang,python,java,javascript,nodejs,dotnet)<br/>
-![My Skills](https://skillicons.dev/icons?i=html,css,scss,gulp,vue,nextjs,react)<br/>
-![My Skills](https://skillicons.dev/icons?i=npm,nginx,git,mysql,sqlite,redis,fastapi)<br/>
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=lua,golang,python,java,javascript,nodejs,dotnet" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,gulp,vue,nextjs,react" />
+    <img src="https://skillicons.dev/icons?i=npm,nginx,git,mysql,sqlite,redis,fastapi" />
   </a>
 </p>
 
