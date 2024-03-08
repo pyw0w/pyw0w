@@ -1,7 +1,7 @@
 
 # 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=lua,php,golang,python,java,javascript,nodejs,dotnet)
-![My Skills](https://skillicons.dev/icons?i=npm,nginx,git,mysql,sqlite,redis)
+![My Skills](https://skillicons.dev/icons?i=lua,php,golang,python,java,javascript,nodejs,dotnet)<br/>
+![My Skills](https://skillicons.dev/icons?i=npm,nginx,git,mysql,sqlite,redis)<br/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PyWhy-3275&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
