@@ -2,9 +2,9 @@
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,golang,python,java,javascript,nodejs,dotnet" />
-    <img src="https://skillicons.dev/icons?i=html,css,scss,gulp,vue,nextjs,react" />
-    <img src="https://skillicons.dev/icons?i=npm,nginx,git,mysql,sqlite,redis,fastapi" />
+    <img src="https://skillicons.dev/icons?i=lua,golang,python,java,javascript,nodejs,dotnet" /><br/>
+    <img src="https://skillicons.dev/icons?i=html,css,scss,gulp,vue,nextjs,react" /><br/>
+    <img src="https://skillicons.dev/icons?i=npm,nginx,git,mysql,sqlite,redis,fastapi" /><br/>
   </a>
 </p>
 
