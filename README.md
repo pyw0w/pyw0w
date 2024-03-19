@@ -8,6 +8,9 @@
   </a>
 </p>
 
+# WakaTime Stats:
+[![wakatime](https://wakatime.com/badge/user/7879dd5c-3a19-49da-bc78-4a8e923a6314/project/018e0ecc-5a2c-4345-ad05-ad6805831b3c.svg)](https://wakatime.com/badge/user/7879dd5c-3a19-49da-bc78-4a8e923a6314/project/018e0ecc-5a2c-4345-ad05-ad6805831b3c)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PyWhy-3275&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PyWhy-3275&theme=dark&hide_border=false)<br/>
