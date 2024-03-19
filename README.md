@@ -9,11 +9,8 @@
 </p>
 
 # WakaTime Stats:
-<p align="center">
-  <figure>
-    <embed src="https://wakatime.com/share/@PyWhy/f593246c-618c-402b-a5aa-cc18595efd04.svg"></embed>
-  </figure>
-</p>
+.. image:: https://wakatime.com/share/@PyWhy/1c8d64ac-3a94-4592-9acd-cab85fa1701e.png
+    :target: https://wakatime.com/
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PyWhy-3275&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
