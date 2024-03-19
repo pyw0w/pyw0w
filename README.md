@@ -9,6 +9,7 @@
 </p>
 
 # WakaTime Stats:
+MiniCore: [![wakatime](https://wakatime.com/badge/user/7879dd5c-3a19-49da-bc78-4a8e923a6314/project/018d9bd5-1a76-47b5-aef4-cc0844ce85c4.svg)](https://wakatime.com/badge/user/7879dd5c-3a19-49da-bc78-4a8e923a6314/project/018d9bd5-1a76-47b5-aef4-cc0844ce85c4)
 MiniCore.Role: [![wakatime](https://wakatime.com/badge/user/7879dd5c-3a19-49da-bc78-4a8e923a6314/project/018e0961-67a8-44e4-872c-5062dc4da76e.svg)](https://wakatime.com/badge/user/7879dd5c-3a19-49da-bc78-4a8e923a6314/project/018e0961-67a8-44e4-872c-5062dc4da76e)
 MiniCore.Games: [![wakatime](https://wakatime.com/badge/user/7879dd5c-3a19-49da-bc78-4a8e923a6314/project/018e4784-ee31-4730-9471-65c6eb0e2b76.svg)](https://wakatime.com/badge/user/7879dd5c-3a19-49da-bc78-4a8e923a6314/project/018e4784-ee31-4730-9471-65c6eb0e2b76)
 MiniCore.Runner: [![wakatime](https://wakatime.com/badge/user/7879dd5c-3a19-49da-bc78-4a8e923a6314/project/018e0ecc-5a2c-4345-ad05-ad6805831b3c.svg)](https://wakatime.com/badge/user/7879dd5c-3a19-49da-bc78-4a8e923a6314/project/018e0ecc-5a2c-4345-ad05-ad6805831b3c)
