@@ -9,11 +9,7 @@
 </p>
 
 # WakaTime Stats:
-MiniCore: [![wakatime](https://wakatime.com/badge/user/7879dd5c-3a19-49da-bc78-4a8e923a6314/project/018d9bd5-1a76-47b5-aef4-cc0844ce85c4.svg)](https://wakatime.com/badge/user/7879dd5c-3a19-49da-bc78-4a8e923a6314/project/018d9bd5-1a76-47b5-aef4-cc0844ce85c4)
-MiniCore.Role: [![wakatime](https://wakatime.com/badge/user/7879dd5c-3a19-49da-bc78-4a8e923a6314/project/018e0961-67a8-44e4-872c-5062dc4da76e.svg)](https://wakatime.com/badge/user/7879dd5c-3a19-49da-bc78-4a8e923a6314/project/018e0961-67a8-44e4-872c-5062dc4da76e)
-MiniCore.Games: [![wakatime](https://wakatime.com/badge/user/7879dd5c-3a19-49da-bc78-4a8e923a6314/project/018e4784-ee31-4730-9471-65c6eb0e2b76.svg)](https://wakatime.com/badge/user/7879dd5c-3a19-49da-bc78-4a8e923a6314/project/018e4784-ee31-4730-9471-65c6eb0e2b76)
-MiniCore.Runner: [![wakatime](https://wakatime.com/badge/user/7879dd5c-3a19-49da-bc78-4a8e923a6314/project/018e0ecc-5a2c-4345-ad05-ad6805831b3c.svg)](https://wakatime.com/badge/user/7879dd5c-3a19-49da-bc78-4a8e923a6314/project/018e0ecc-5a2c-4345-ad05-ad6805831b3c)
-
+<figure><embed src="https://wakatime.com/share/@PyWhy/f593246c-618c-402b-a5aa-cc18595efd04.svg"></embed></figure>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PyWhy-3275&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PyWhy-3275&theme=dark&hide_border=false)<br/>
