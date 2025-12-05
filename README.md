@@ -15,9 +15,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pyw0w&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=pyw0w&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![](https://raw.githubusercontent.com/pyw0w/pyw0w/refs/heads/output/snake.svg)
-
+[](https://raw.githubusercontent.com/pyw0w/pyw0w/refs/heads/output/snake.svg)
+---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
